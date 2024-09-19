@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 
 1. **Clone this repository:**
   ```bash
-  git clone https://github.com/kousik23naskar/Information_Retrieval_System
+  git clone https://github.com/kousik23naskar/Information-Retrieval-System
   ```
 2. **Navigate to the project directory:**
   ```bash
