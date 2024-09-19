@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-community
+pypdf
+faiss-cpu
+langchain-huggingface
+wikipedia
+arxiv
+langchainhub
+langchain-groq
+streamlit
+-e .
