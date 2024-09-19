@@ -34,7 +34,7 @@ To run the project locally, follow these steps:
   ```
 2. **Navigate to the project directory:**
   ```bash
-  cd Information_Retrieval_System
+  cd Information-Retrieval-System
   ```
 3. **Create a conda environment:**
   ```bash
