@@ -65,7 +65,8 @@ In this section, we discuss the performance of the Information Retrieval System:
 
 - **Performance**
 
-The system effectively prioritizes responses from user-uploaded PDFs, improving the relevance of the information retrieved.
+  - The system effectively prioritizes responses from user-uploaded PDFs, improving the relevance of the information retrieved.
+  
 - **Strengths:**
 
   - **Versatile Data Sources:** Ability to retrieve information from multiple sources increases the breadth of knowledge.
